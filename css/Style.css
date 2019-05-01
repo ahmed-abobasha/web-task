@@ -1,0 +1,80 @@
+
+.container
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card-title
+{
+    text-align: center;
+   font-family:  Permanent Marker;
+   font-size: 25px;
+     color:  #404040;
+}
+.card-img-top
+{
+   padding-left: 270px; 
+   margin-top: 20px;
+}
+.card-body
+{
+    padding-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-color: yellow;
+}
+
+.card-deck
+{
+    padding: 30px;
+}
+.card-year
+{
+    text-align: center;
+   font-family:  Permanent Marker;
+   font-size: 20px;
+     color:  #404040;
+}
+.image
+{
+    border-radius:50%; 
+    align-self: center; 
+    margin-top: 10px;
+
+}
+.text
+{
+    text-align: center;
+    color:  #ffffff;
+    margin-top: 200px;
+    font-family: Raleway Bold;
+    font-size: 67px;
+  
+    
+}
+.back_grund_img
+{
+    width:1140px;
+    height:400px;
+}
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+    width: 1500px;
+    height: 400px;
+    background: url("C:/xampp/htdocs/abobasha_work/.vscode/images/bckgrnd.png") top center ;
+    background-size: cover;
+height: 700px;    
+
+}
+.card-text
+{
+    text-align: center;
+    color: #404040;
+    margin-top: 200px;
+    font-family: Raleway light;
+    font-size: 19px;
+  
+}
